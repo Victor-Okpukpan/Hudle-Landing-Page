@@ -41,13 +41,6 @@ header {
     width: 100%;
 }
 
-/* .wrapper {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 10px;
-} */
-
 .wrapper {
     display: grid;
     grid-template-columns: 600px 470px;
